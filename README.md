@@ -1,1 +1,1 @@
-# Snake Game
+Double Snake Game
